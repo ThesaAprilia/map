@@ -1,0 +1,26 @@
+Status Tunjungan Plaza: Ramai seperti biasa
+Status Royal Plaza: Tidak seramai biasanya
+StatusTidak seramai biasanyaStatus Kebun Binatang Surabaya: Sedikit sibuk
+StatusTidak seramai biasanyaStatus Maspion Square: Lokasi belum dibuka
+Status Tunjungan Plaza: Lokasi belum dibuka
+Status Maspion Square: Lokasi belum dibuka
+Status Maspion Square: Lokasi Belum Buka, Status Belum Available
+Status Tunjungan Plaza: Lokasi Belum Buka, Status Belum Available
+Status Kebun Binatang Surabaya: Sedikit sibuk
+Status Maspion Square: Tidak terlalu ramai
+Status Lapangan Thor: Tidak terlalu ramai
+Status Maspion Square: Tidak terlalu ramai
+StatusTidak seramai biasanyaStatusTidak seramai biasanyaStatusTidak seramai biasanyaStatus Maspion Square: Tidak seramai biasanya
+Status Kebun Binatang Surabaya: Lebih ramai dari biasanya
+Status Maspion Square: Tidak terlalu ramai
+StatusTidak seramai biasanyaStatus Kebun Binatang Surabaya: Lebih ramai dari biasanya
+Status Tunjungan Plaza: Tidak terlalu ramai
+Status Lapangan Thor: Tidak terlalu ramai
+Status Maspion Square: Tidak terlalu ramai
+StatusTidak seramai biasanyaStatus Kebun Binatang Surabaya: Lebih ramai dari biasanya
+Status Tunjungan Plaza: Tidak terlalu ramai
+Status Lapangan Thor: Tidak terlalu ramai
+Status Maspion Square: Tidak terlalu ramai
+StatusTidak seramai biasanyaStatus Kebun Binatang Surabaya: Lebih ramai dari biasanya
+Status Tunjungan Plaza: Tidak terlalu ramai
+Status Lapangan Thor: Tidak terlalu ramai
