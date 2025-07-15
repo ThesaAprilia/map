@@ -5,6 +5,7 @@ test.beforeEach(async ({ page }) => {
   await page.waitForTimeout(300000)
 })
 
+
 test('scrapping location', async ({page}) => {
     const location = new maps (page)
     await location.location1()

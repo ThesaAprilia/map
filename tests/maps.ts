@@ -10,7 +10,7 @@ export class maps {
 
 
     async location1 (){
-        const placeUrl = 'https://www.google.com/maps/place/Taman+Mayangkara/@-7.3069941,112.7329486,16z/data=!3m1!4b1!4m6!3m5!1s0x2dd7fb9e2e33845f:0x455409e45d94f7da!8m2!3d-7.3069994!4d112.7355235!16s%2Fg%2F11g6mdhl44?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D'
+        const placeUrl = 'https://www.google.com/maps/place/SPBU+Pertamina+54.601.100+-+Ngagel/@-7.2967166,112.7398378,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd7fba2df5ba1b1:0xc5f2e9aa0f78ae13!8m2!3d-7.2967219!4d112.7424127!16s%2Fg%2F1hm44g81t?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D'
 
         await this.page.goto(placeUrl)
 
@@ -23,7 +23,7 @@ export class maps {
         const popularTimesLocator = this.page.locator('.fontHeadlineSmall').nth(1).filter({ hasText: 'Jam Ramai' })
         await popularTimesLocator.waitFor({ timeout: 10000 });
         const liveStatus = await this.page.locator('div.UgBNB.fontBodySmall').textContent()
-        console.log('Status keramaian Taman Mayangkara:', liveStatus?.trim())
+        console.log('SPBU Pertamina 54.601.100 - Ngagel:', liveStatus?.trim())
 
         //txt
         const hasilSimpan1 = 'Status' +  liveStatus
@@ -40,7 +40,7 @@ export class maps {
         }
 
             const dataBaru : StatusData = {
-            lokasi: 'Taman Mayangkara',
+            lokasi: 'SPBU Pertamina 54.601.100 - Ngagel',
             status: liveStatusResult,
             waktu: new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })
         }
