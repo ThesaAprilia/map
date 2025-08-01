@@ -2,7 +2,7 @@ import { test, expect , Page, chromium} from '@playwright/test'
 import { maps } from './maps'
 
 test.beforeEach(async ({ page }) => {
-  await page.waitForTimeout(300000)
+    await new Promise(resolve => setTimeout(resolve, 5 * 60 * 1000))
 })
 
 
